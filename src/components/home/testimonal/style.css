@@ -34,7 +34,7 @@
   transition: 0.5s;
 }
 .testimonal .items:hover {
-  background-color: #1eb2a6;
+  background-color: #000000;
   color: #fff;
   cursor: pointer;
 }

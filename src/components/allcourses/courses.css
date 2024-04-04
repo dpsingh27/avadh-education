@@ -99,7 +99,7 @@
   opacity: 0;
 }
 .online .box:hover {
-  background-color: #1eb2a6;
+  background-color: #020202;
   border-radius: 5px;
   cursor: pointer;
 }
